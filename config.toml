@@ -62,6 +62,8 @@ disableKinds = ["RSS", "sitemap", "404"]
 
   homeSubtitle = "Computer Scientist"
 
+  profilePicture = "/images/profile.jpg"
+
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
 
