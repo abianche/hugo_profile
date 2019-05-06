@@ -86,9 +86,9 @@ disableKinds = ["RSS", "sitemap", "404"]
     logoHomeLink = "/"
 
   # Social icons
-  [[params.social]]
-    name = "twitter"
-    url  = "https://twitter.com/_abianche/"
+  # [[params.social]]
+  #   name = "twitter"
+  #   url  = "https://twitter.com/_abianche/"
 
   [[params.social]]
     name = "email"
