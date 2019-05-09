@@ -60,8 +60,6 @@ disableKinds = ["RSS", "sitemap", "404"]
   keywords = "profile,software,development,programming,hugo,flutter"
   images = [""]
 
-  homeSubtitle = "Computer Scientist"
-
   profilePicture = "/images/profile.jpg"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
@@ -112,21 +110,23 @@ disableKinds = ["RSS", "sitemap", "404"]
 
 [languages]
   [languages.en]
+    homeSubtitle = "Computer Scientist"
     subtitle  = "Profile"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
   [languages.it]
+    homeSubtitle = "Informatico"
     subtitle  = "Profilo"
     weight    = 2
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
-[menu]
-#   [[menu.main]]
-#     identifier = "about"
-#     name       = "About"
-#     url        = "about/"
-#   [[menu.main]]
-#     identifier = "posts"
-#     name       = "Posts"
-#     url        = "posts/"
+  # [languages.en.menu]
+  #   [[languages.en.menu.main]]
+  #     identifier = "about"
+  #     name = "About"
+  #     url = "about/"
+  #   [[languages.en.menu.main]]
+  #     identifier = "posts"
+  #     name = "Posts"
+  #     url = "posts/"
