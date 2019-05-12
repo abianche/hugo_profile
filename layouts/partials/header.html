@@ -13,16 +13,23 @@
             </span>
             {{ end }}
 
-            {{ $siteLanguages := site.Languages}}
-            {{ $pageLang := .Page.Lang}}
-            {{- range .Page.AllTranslations }}
-            {{ $translation := . }}
-            {{- range sort $siteLanguages "Weight" "asc" }}
-            {{- if eq $translation.Lang .Lang }}
-            <a href="{{ $translation.Permalink | relURL }}">{{upper .}}</a>&nbsp;
-            {{- end }}
-            {{- end }}
-            {{- end }}
+            <span class="flag-icon-background">
+                {{ $siteLanguages := site.Languages}}
+                {{ $pageLang := .Page.Lang}}
+                {{- range .Page.AllTranslations }}
+                {{ $translation := . }}
+                {{- range sort $siteLanguages "Weight" "asc" }}
+                {{- if eq $translation.Lang .Lang }}
+                {{ $shortcode := .}}
+                {{ if eq (upper $shortcode) "EN"}}
+                {{ $shortcode = "gb"}}
+                {{ end}}
+                <a href="{{ $translation.Permalink | relURL }}" class="flag-icon flag-icon-{{ $shortcode }}"
+                    style="text-decoration: none !important;"></a>&nbsp;
+                {{- end }}
+                {{- end }}
+                {{- end }}
+            </span>
 
             &nbsp;
             <span class="theme-toggle">{{ partial "theme-icon.html" . }}</span>
