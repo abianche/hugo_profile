@@ -121,11 +121,11 @@ disableKinds = ["RSS", "sitemap", "404"]
     weight    = 2
     copyright = 'Tutti i diritti riservati'
 
-  [languages.de]
-    homeSubtitle = "Informatik"
-    subtitle  = "Profil"
-    weight    = 3
-    copyright = 'Alle Rechte vorbehalten'
+  # [languages.de]
+  #   homeSubtitle = "Informatik"
+  #   subtitle  = "Profil"
+  #   weight    = 3
+  #   copyright = 'Alle Rechte vorbehalten'
 
   # [languages.en.menu]
   #   [[languages.en.menu.main]]
