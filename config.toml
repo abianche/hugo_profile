@@ -19,7 +19,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "public"
+publishDir   = "abianche.github.io"
 
 buildDrafts  = false
 buildFuture  = false
