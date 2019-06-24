@@ -1,5 +1,7 @@
 # Hugo default output directory
 /public
+/abianche.github.io
+/themes
 
 ## OS Files
 # Windows
