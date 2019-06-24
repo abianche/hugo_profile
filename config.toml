@@ -97,6 +97,10 @@ disableKinds = ["RSS", "sitemap", "404"]
     url  = "https://github.com/abianche/"
 
   [[params.social]]
+    name = "telegram"
+    url  = "https://t.me/abianche"
+
+  [[params.social]]
     name = "linkedin"
     url  = "https://www.linkedin.com/in/alessiobianchetti/"
 
