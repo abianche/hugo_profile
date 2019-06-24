@@ -108,10 +108,6 @@ disableKinds = ["RSS", "sitemap", "404"]
     name = "facebook"
     url = "https://www.facebook.com/alessio.bianchetti"
 
-  # [[params.social]]
-  #   name = "credit-card"
-  #   url = "https://paypal.me/abianche"
-
 [languages]
   [languages.en]
     homeSubtitle = "Computer Scientist"
