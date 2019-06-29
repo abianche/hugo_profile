@@ -42,21 +42,23 @@ pygmentscodefencesguesssyntax = true
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = ["/assets/css/styles.css"]
+    custom_css = ["assets/css/styles.css"]
     
     # Custom JS
     custom_js = []
+
+    disable_comments = true
 
 [taxonomies]
   category = "categories"
   series = "series"
   tag = "tags"
 
-[[params.social]]
-    name = "Telegram"
-    icon = "fab fa-telegram"
-    weight = 2
-    url = "https://t.me/abianche"
+# [[params.social]]
+#     name = "Telegram"
+#     icon = "fab fa-telegram"
+#     weight = 2
+#     url = "https://t.me/abianche"
 [[params.social]]
     name = "Github"
     icon = "fab fa-github"
@@ -83,25 +85,25 @@ pygmentscodefencesguesssyntax = true
     [languages.en]
         languagename = "English"
 
-        [[languages.en.menu.main]]
-        name = "About"
-        weight = 1
-        url = "/about/"
+        # [[languages.en.menu.main]]
+        # name = "About"
+        # weight = 1
+        # url = "/about/"
 
-        [[languages.en.menu.main]]
-        name = "Blog"
-        weight = 2
-        url = "/posts/"
+        # [[languages.en.menu.main]]
+        # name = "Posts"
+        # weight = 2
+        # url = "/posts/"
 
-        [[languages.en.menu.main]]
-        name = "Projects"
-        weight = 3
-        url = "/projects/"
+        # [[languages.en.menu.main]]
+        # name = "Projects"
+        # weight = 3
+        # url = "/projects/"
 
-        [[languages.en.menu.main]]
-        name = "Contact me"
-        weight = 5
-        url = "/contact/"
+        # [[languages.en.menu.main]]
+        # name = "Contact me"
+        # weight = 5
+        # url = "/contact/"
 
 
     [languages.it]
@@ -110,29 +112,29 @@ pygmentscodefencesguesssyntax = true
 
         [languages.it.params]
             author = "Alessio Bianchetti"
-            info = "Full Stack DevOps e Mágico"
+            info = "Informatico"
             description = "Profilo di Alessio Bianchetti"
             keywords = "profilo,sviluppatore,personale,software,programmazione,hugo"
             footercontent = "Tutti i diritti riservati"
 
         [languages.it.menu]
 
-            [[languages.it.menu.main]]
-            name = "About"
-            weight = 1
-            url = "/it/about/"
+            # [[languages.it.menu.main]]
+            # name = "About"
+            # weight = 1
+            # url = "/it/about/"
 
-            [[languages.it.menu.main]]
-            name = "Blog"
-            weight = 2
-            url = "/it/posts/"
+            # [[languages.it.menu.main]]
+            # name = "Posts"
+            # weight = 2
+            # url = "/it/posts/"
 
-            [[languages.it.menu.main]]
-            name = "Progetti"
-            weight = 3
-            url = "/it/projects/"
+            # [[languages.it.menu.main]]
+            # name = "Progetti"
+            # weight = 3
+            # url = "/it/projects/"
 
-            [[languages.it.menu.main]]
-            name = "Contatti"
-            weight = 5
-            url = "/it/contact/"
+            # [[languages.it.menu.main]]
+            # name = "Contatti"
+            # weight = 5
+            # url = "/it/contact/"
