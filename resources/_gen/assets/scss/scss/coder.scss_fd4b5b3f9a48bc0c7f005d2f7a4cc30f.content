@@ -408,4 +408,8 @@ img {
   .footer a {
     color: #1565c0; }
 
+.avatar img {
+  width: 30rem !important;
+  border-radius: 8% !important; }
+
 /*# sourceMappingURL=coder.css.map */

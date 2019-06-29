@@ -42,7 +42,7 @@ pygmentscodefencesguesssyntax = true
     maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = ["assets/css/styles.css"]
+    custom_css = []
     
     # Custom JS
     custom_js = []
