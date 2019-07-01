@@ -54,11 +54,11 @@ pygmentscodefencesguesssyntax = true
   series = "series"
   tag = "tags"
 
-# [[params.social]]
-#     name = "Telegram"
-#     icon = "fab fa-telegram"
-#     weight = 2
-#     url = "https://t.me/abianche"
+[[params.social]]
+    name = "E-mail"
+    icon = "fas fa-envelope"
+    weight = 1
+    url = "mailto:alessio.bianchetti@gmail.com"
 [[params.social]]
     name = "Github"
     icon = "fab fa-github"
