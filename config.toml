@@ -106,35 +106,35 @@ pygmentscodefencesguesssyntax = true
         # url = "/contact/"
 
 
-    [languages.it]
-        languagename = "Italiano"
-        title = "Alessio Bianchetti"
+#     [languages.it]
+#         languagename = "Italiano"
+#         title = "Alessio Bianchetti"
 
-        [languages.it.params]
-            author = "Alessio Bianchetti"
-            info = "Informatico"
-            description = "Profilo di Alessio Bianchetti"
-            keywords = "profilo,sviluppatore,personale,software,programmazione,hugo"
-            footercontent = "Tutti i diritti riservati"
+#         [languages.it.params]
+#             author = "Alessio Bianchetti"
+#             info = "Informatico"
+#             description = "Profilo di Alessio Bianchetti"
+#             keywords = "profilo,sviluppatore,personale,software,programmazione,hugo"
+#             footercontent = "Tutti i diritti riservati"
 
-        [languages.it.menu]
+#         [languages.it.menu]
 
-            # [[languages.it.menu.main]]
-            # name = "About"
-            # weight = 1
-            # url = "/it/about/"
+#             # [[languages.it.menu.main]]
+#             # name = "About"
+#             # weight = 1
+#             # url = "/it/about/"
 
-            # [[languages.it.menu.main]]
-            # name = "Posts"
-            # weight = 2
-            # url = "/it/posts/"
+#             # [[languages.it.menu.main]]
+#             # name = "Posts"
+#             # weight = 2
+#             # url = "/it/posts/"
 
-            [[languages.it.menu.main]]
-            name = "Progetti"
-            weight = 3
-            url = "/it/projects/"
+#             [[languages.it.menu.main]]
+#             name = "Progetti"
+#             weight = 3
+#             url = "/it/projects/"
 
-            # [[languages.it.menu.main]]
-            # name = "Contatti"
-            # weight = 5
-            # url = "/it/contact/"
+#             # [[languages.it.menu.main]]
+#             # name = "Contatti"
+#             # weight = 5
+#             # url = "/it/contact/"
