@@ -20,28 +20,36 @@ This is my first released app, get it for FREE on the Google Play store:
 - Egg timer
 - Dark mode
 
-![Screenshot 1](/images/projects/pp1.png)
-![Screenshot 2](/images/projects/pp2.png)
-![Screenshot 3](/images/projects/pp3.png)
-![Screenshot 4](/images/projects/pp4.png)
-![Screenshot 5](/images/projects/pp5.png)
-![Screenshot 6](/images/projects/pp6.png)
-![Screenshot 7](/images/projects/pp7.png)
-![Screenshot 8](/images/projects/pp8.png)
+<div class="screenshots">
+
+<img src="/images/projects/pp1.png"/>
+<img src="/images/projects/pp2.png"/>
+<img src="/images/projects/pp3.png"/>
+<img src="/images/projects/pp4.png"/>
+<img src="/images/projects/pp5.png"/>
+<img src="/images/projects/pp6.png"/>
+<img src="/images/projects/pp7.png"/>
+<img src="/images/projects/pp8.png"/>
+
+</div>
 
 # What is Planning Poker?
+
 Planning poker, also called Scrum poker, is a consensus-based, gamified technique for estimating, mostly used to estimate effort or relative size of development goals in software development. In planning poker, members of the group make estimates by playing numbered cards face-down to the table, instead of speaking them aloud. The cards are revealed, and the estimates are then discussed. By hiding the figures in this way, the group can avoid the cognitive bias of anchoring, where the first number spoken aloud sets a precedent for subsequent estimates.
 
 ## Rationale
+
 The reason to use planning poker is to avoid the influence of the other participants. If a number is spoken, it can sound like a suggestion and influence the other participants' sizing. Planning poker should force people to think independently and propose their numbers simultaneously. This is accomplished by requiring that all participants show their card at the same time.
 
 ## Equipment
+
 Planning poker is based on a list of features to be delivered, several copies of a deck of cards and optionally, an egg timer that can be used to limit time spent in discussion of each item. _**You can use this app as well!**_.
 
 The feature list, often a list of user stories, describes some software that needs to be developed.
 The cards in the deck have numbers on them. _**You can choose between four different decks with this app!**_.
 
 ## Procedure
+
 At the estimation meeting, each estimator is given one deck of the cards. All decks have identical sets of cards in them.
 
 The meeting proceeds as follows:
