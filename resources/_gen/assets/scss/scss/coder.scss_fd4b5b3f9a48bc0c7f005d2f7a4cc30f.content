@@ -412,6 +412,17 @@ img {
   width: 30rem !important;
   border-radius: 8% !important; }
 
+li .title {
+  font-size: 3rem !important; }
+
+li .date {
+  width: auto !important;
+  margin-right: 0px !important; }
+
+.container.post img {
+  width: 150px;
+  margin: 30px; }
+
 .screenshots {
   text-align: center; }
 
