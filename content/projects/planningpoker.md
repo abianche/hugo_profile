@@ -67,7 +67,7 @@ The cards are numbered as they are to account for the fact that the longer an es
 Source: [https://wikipedia.org/wiki/Planning_poker](https://wikipedia.org/wiki/Planning_poker)
 
 <hr />
-
+<!-- 
 Privacy policy: [Link]({{< relref "privacy_policy.md" >}})
 
-Terms and conditions: [Link]({{< relref "terms_and_conditions.md" >}})
+Terms and conditions: [Link]({{< relref "terms_and_conditions.md" >}}) -->
