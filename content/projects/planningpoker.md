@@ -65,9 +65,3 @@ The meeting proceeds as follows:
 The cards are numbered as they are to account for the fact that the longer an estimate is, the more uncertainty it contains. Thus, if a developer wants to play a 6 he is forced to reconsider and either work through that some of the perceived uncertainty does not exist and play a 5, or accept a conservative estimate accounting for the uncertainty and play an 8.
 
 Source: [https://wikipedia.org/wiki/Planning_poker](https://wikipedia.org/wiki/Planning_poker)
-
-<hr />
-<!-- 
-Privacy policy: [Link]({{< relref "privacy_policy.md" >}})
-
-Terms and conditions: [Link]({{< relref "terms_and_conditions.md" >}}) -->
