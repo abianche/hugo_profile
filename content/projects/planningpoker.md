@@ -1,16 +1,20 @@
 ---
 title: "Planning Poker (SCRUM)"
 date: 2019-05-19
-tags: [Flutter, Android, Scrum]
+tags: [Flutter, Android, iOS, Scrum]
 
 image: "/images/projects/ppheader.png"
 ---
 
-Planning Poker (SCRUM) is an Android application developed with Flutter! The iOS version will come out soon as well, thanks to the cross-platform development nature of Flutter.
-This is my first released app, get it for FREE on the Google Play store:
+Planning Poker (SCRUM) is an Android and iOS application developed with Flutter!
+This is my first released app, get it for FREE on Google Play and App Store!
 
 <div style="text-align:center">
-<a href='https://play.google.com/store/apps/details?id=com.abianche.planningpoker&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img style='width: 18rem;' alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.abianche.planningpoker&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+</div>
+
+<div style="text-align:center">
+<a href="https://apps.apple.com/us/app/planning-poker-scrum/id1466098334?mt=8" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/en-us/badge-lrg.svg?releaseDate=2019-07-14&kind=iossoftware&bubble=ios_apps) no-repeat;width:135px;height:40px;"></a>
 </div>
 
 ⭐ Features ⭐
